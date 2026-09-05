@@ -17,8 +17,15 @@ window.__TAX_SALE_ALERT__ = Object.assign(
     dealDeskUrl: "https://whop.com/checkout/plan_H0wXOBVSESjmb",
     dealDeskLabel: "Get Deal Desk — $67",
 
+    diligenceUrl: "https://whop.com/checkout/plan_Z2iudTHY60Fmv",
+    diligenceLabel: "Diligence Sheets — $19",
+
     storeUrl: "https://whop.com/boltorium-deals",
     storeLabel: "Browse Boltorium store",
+
+    promoCode: "WEEKEND15",
+    promoLabel: "WEEKEND15 · 15% off through Sun Sep 7 PT",
+    promoExpiresISO: "2026-09-08T06:59:59.000Z",
   },
   window.__TAX_SALE_ALERT__ || {}
 );

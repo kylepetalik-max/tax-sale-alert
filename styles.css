@@ -461,3 +461,15 @@ footer p {
     font-size: 0.65rem;
   }
 }
+
+.promo-banner {
+  margin: 0 0 1.25rem;
+  padding: 0.75rem 1rem;
+  border-radius: 12px;
+  border: 1px solid rgba(250, 204, 21, 0.35);
+  background: linear-gradient(90deg, rgba(250,204,21,0.12), rgba(34,197,94,0.08));
+  color: #fef9c3;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+.promo-banner strong { color: #facc15; letter-spacing: 0.02em; }
