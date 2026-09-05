@@ -24,7 +24,9 @@
 
 Static files only — no backend.
 
-**Published (if this line was filled by deploy):** see bottom of this file / README.
+**Live URL:** https://kylepetalik-max.github.io/tax-sale-alert/  
+**Repo:** https://github.com/kylepetalik-max/tax-sale-alert  
+**Checklist:** https://kylepetalik-max.github.io/tax-sale-alert/checklist.html
 
 **Manual options (no Kyle credentials needed beyond a free account):**
 
